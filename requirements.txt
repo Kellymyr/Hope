@@ -1,0 +1,7 @@
+# Project dependencies
+autogen
+langchain
+langchain-community
+langchain-core
+ollama
+# existing dependencies (if any) should be retained above

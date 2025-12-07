@@ -1,0 +1,32 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sql
+
+# Ignore VSNV files and folders
+*.vsnv
+.vsnv/
+.vsnv*
+
+# Ignore cache files and folders
+__pycache__/
+*.pyc
+.cache/
+*.cache
+*.pyo
+*.pyd
+.cache/
+.cache/*
+
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+venv/
